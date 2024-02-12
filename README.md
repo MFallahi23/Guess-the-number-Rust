@@ -4,7 +4,7 @@ This is a simple program made with rust, it enables the user to choose a maximal
 
 # Testing the code
 
-if you want to test the code, you to clone this repository or manually download it. Then :
+if you want to test the code, you have to clone this repository or manually download it. Then :
 
 Run it with the following command :
 
